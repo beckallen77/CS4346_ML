@@ -1,0 +1,3 @@
+*.sh eol=lf
+*.cfg eol=lf
+*.dat eol=lf
